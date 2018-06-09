@@ -5,6 +5,9 @@ present in gyroscope data. Here we take the x, y and z axis data from the gyrosc
 rest. The data is used in combination with linear kalman filter to estimate the initial bias in the data and then 
 this bias is subtracted from the incoming data to obtain the corrected output.
 
+### Note
+Here only the data in the interval between 25s to 45s is considered as during this phase the bot was more or less stable.
+
 ## Link for the paper
 https://www.researchgate.net/publication/299584644_Kalman_Filter_based_estimation_of_constant_angular_rate_bias_for_MEMS_Gyroscope
 
