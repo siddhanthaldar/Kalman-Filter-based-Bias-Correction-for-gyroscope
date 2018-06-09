@@ -11,5 +11,6 @@ The bag file MH_01_easy.bag from the [EuRoC MAV Dataset](https://projects.asl.et
 
 ## Results
 
-![kalman_result](https://user-images.githubusercontent.com/25313941/41190264-01c1d8ce-6bf9-11e8-9415-eeb6f1b5255a.png)
+![kalman_res](https://user-images.githubusercontent.com/25313941/41195574-ab935928-6c4d-11e8-9046-b9253c6411c1.png)
+
 
