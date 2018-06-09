@@ -7,4 +7,4 @@ present in gyroscope data.
 The bag file MH_01_easy.bag from the [EuRoC MAV Dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets) has been used for the purpose.
 
 ## Results:
-![picture](/home/sid/Pictures/kalman_result.png)
+![picture](file:///home/sid/Pictures/kalman_result.png)
