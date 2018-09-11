@@ -8,8 +8,7 @@ this bias is subtracted from the incoming data to obtain the corrected output.
 ### Note
 Here only the data in the interval between 25s to 45s is considered as during this phase the bot was more or less stable.
 
-## Link for the paper
-https://www.researchgate.net/publication/299584644_Kalman_Filter_based_estimation_of_constant_angular_rate_bias_for_MEMS_Gyroscope
+### [Link](https://www.researchgate.net/publication/299584644_Kalman_Filter_based_estimation_of_constant_angular_rate_bias_for_MEMS_Gyroscope) for the paper
 
 ## Dataset
 The bag file MH_01_easy.bag from the [EuRoC MAV Dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets) has been used for the purpose.
